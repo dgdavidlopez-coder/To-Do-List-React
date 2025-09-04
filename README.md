@@ -6,7 +6,7 @@ Incluye **filtros, contador de tareas, animaciones y guardado en localStorage** 
 ---
 
 ## 🚀 Demo Online 
-- 🌐 **GitHub Pages**: [To-Do List en GitHub Pages](https://TU-USUARIO.github.io/to-do-list)
+- 🌐 **GitHub Pages**: [To-Do List en GitHub Pages](https://dgdavidlopez-coder.github.io/To-Do-List-React/)
 
 ---
 
