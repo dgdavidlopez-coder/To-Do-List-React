@@ -11,7 +11,7 @@ Incluye **filtros, contador de tareas, animaciones y guardado en localStorage** 
 ---
 
 ## 📸 Captura
-![Captura de la aplicación](./screenshot.png)
+![Captura de la aplicación](./To-Do-List-React.png)
 
 ---
 
